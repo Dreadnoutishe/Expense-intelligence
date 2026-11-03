@@ -1,0 +1,4 @@
+date,description,merchant,amount,type,category
+2026-11-02,Grocery shopping,Green Market,48.75,expense,
+2026-11-03,Project payment,Paper Finch,650.00,income,Other
+2026-11-03,Metro trip,City Transit,3.50,expense,Transport

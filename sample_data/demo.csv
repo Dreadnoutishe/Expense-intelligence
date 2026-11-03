@@ -1,0 +1,43 @@
+date,description,merchant,amount,type,category
+2026-09-01,Monthly salary,Fable Studio,4200.00,income,Other
+2026-09-01,Apartment rent,Elm Property,1350.00,expense,Bills
+2026-09-02,Weekly groceries,Green Market,93.37,expense,Food
+2026-09-02,Metro pass,City Transit,48.60,expense,Transport
+2026-09-03,Internet plan,Cloudline,63.72,expense,Bills
+2026-09-03,Cafe breakfast,Juniper Cafe,15.98,expense,Food
+2026-09-04,Course subscription,Bright Academy,31.32,expense,Education
+2026-09-04,Pharmacy essentials,Cedar Pharmacy,25.27,expense,Health
+2026-09-08,Cinema tickets,Moonlight Cinema,30.24,expense,Entertainment
+2026-09-12,Clothing basics,Thread Store,80.89,expense,Shopping
+2026-09-16,Freelance illustration,Paper Finch,350.00,income,Other
+2026-09-19,Restaurant dinner,Olive Restaurant,56.81,expense,Food
+2026-09-24,Electricity bill,Spark Utility,90.94,expense,Bills
+2026-09-27,Taxi home,Cobalt Taxi,19.98,expense,Transport
+2026-10-01,Monthly salary,Fable Studio,4200.00,income,Other
+2026-10-01,Apartment rent,Elm Property,1250.00,expense,Bills
+2026-10-02,Weekly groceries,Green Market,86.45,expense,Food
+2026-10-02,Metro pass,City Transit,45.00,expense,Transport
+2026-10-03,Internet plan,Cloudline,59.00,expense,Bills
+2026-10-03,Cafe breakfast,Juniper Cafe,14.80,expense,Food
+2026-10-04,Course subscription,Bright Academy,29.00,expense,Education
+2026-10-04,Pharmacy essentials,Cedar Pharmacy,23.40,expense,Health
+2026-10-08,Cinema tickets,Moonlight Cinema,28.00,expense,Entertainment
+2026-10-12,Clothing basics,Thread Store,74.90,expense,Shopping
+2026-10-16,Freelance illustration,Paper Finch,350.00,income,Other
+2026-10-19,Restaurant dinner,Olive Restaurant,52.60,expense,Food
+2026-10-24,Electricity bill,Spark Utility,84.20,expense,Bills
+2026-10-27,Taxi home,Cobalt Taxi,18.50,expense,Transport
+2026-11-01,Monthly salary,Fable Studio,4200.00,income,Other
+2026-11-01,Apartment rent,Elm Property,1250.00,expense,Bills
+2026-11-02,Weekly groceries,Green Market,86.45,expense,Food
+2026-11-02,Metro pass,City Transit,45.00,expense,Transport
+2026-11-03,Internet plan,Cloudline,59.00,expense,Bills
+2026-11-03,Cafe breakfast,Juniper Cafe,14.80,expense,Food
+2026-11-03,Course subscription,Bright Academy,29.00,expense,Education
+2026-11-03,Pharmacy essentials,Cedar Pharmacy,23.40,expense,Health
+2026-11-03,Cinema tickets,Moonlight Cinema,28.00,expense,Entertainment
+2026-11-03,Clothing basics,Thread Store,74.90,expense,Shopping
+2026-11-03,Freelance illustration,Paper Finch,350.00,income,Other
+2026-11-03,Restaurant dinner,Olive Restaurant,52.60,expense,Food
+2026-11-03,Electricity bill,Spark Utility,84.20,expense,Bills
+2026-11-03,Taxi home,Cobalt Taxi,18.50,expense,Transport

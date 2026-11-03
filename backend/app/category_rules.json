@@ -1,0 +1,9 @@
+{
+  "Food": ["starbucks", "restaurant", "cafe", "grocery", "market", "bakery"],
+  "Transport": ["uber", "taxi", "bus", "metro", "fuel"],
+  "Entertainment": ["netflix", "cinema", "steam", "concert"],
+  "Bills": ["electricity", "internet", "rent", "water"],
+  "Health": ["pharmacy", "clinic", "dentist"],
+  "Education": ["course", "book", "tuition"],
+  "Shopping": ["clothing", "shoes", "store"]
+}
